@@ -1,0 +1,18 @@
+{
+  "name": "node-sqlite",
+  "version": "1.0.0",
+  "main": "index.html#index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --inspect --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "Samuel Teodoro Ferreira",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "sql-bricks": "^3.0.1",
+    "sqlite3": "^5.1.7"
+  }
+}
